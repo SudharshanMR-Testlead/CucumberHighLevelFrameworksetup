@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1de70f9e-7c9d-4a17-ad85-c515e9fea404" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2npLV0vWQvaiO6hIYahILvRm7GC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Cucumber Java.Feature: DashboardPage.executor": "Run",
+    "Cucumber Java.Feature: LoginPage.executor": "Run",
+    "Cucumber Java.Scenario: Check login is successful with correct credentials.executor": "Run",
+    "Cucumber Java.Scenario: Dashboard Page left panel section count.executor": "Run",
+    "Cucumber Java.Scenario: Dashbodard page title.executor": "Run",
+    "Cucumber Java.Scenario: Forgot Password link (1).executor": "Run",
+    "Cucumber Java.Scenario: Forgot Password link.executor": "Run",
+    "Cucumber Java.Scenario: Login page title.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.FailedRerun.executor": "Run",
+    "JUnit.MyTestRunner.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.CucumberProject2 [clean].executor": "Run",
+    "Maven.CucumberProject2 [install].executor": "Run",
+    "Maven.CucumberProject2 [verify].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mungalsu/IdeaProjects/CucumberProject",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mungalsu\IdeaProjects\CucumberProject2\src\test\resources" />
+      <recent name="C:\Users\mungalsu\IdeaProjects\CucumberProject2\src\test\resources\Config" />
+      <recent name="C:\Users\mungalsu\IdeaProjects\CucumberProject2\src\test\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTestRunner">
+    <configuration name="Feature: DashboardPage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/AppFeatures/DashboardPage.feature" />
+      <option name="GLUE" value="AppHooks StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberProject2" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: DashboardPage" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Dashboard Page left panel section count" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/AppFeatures/DashboardPage.feature" />
+      <option name="GLUE" value="AppHooks StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberProject2" />
+      <option name="NAME_FILTER" value="^Dashboard Page left panel section count$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Dashboard Page left panel section count$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Dashboard Page left panel section count" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Dashbodard page title" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/AppFeatures/DashboardPage.feature" />
+      <option name="GLUE" value="AppHooks StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="CucumberProject2" />
+      <option name="NAME_FILTER" value="^Dashbodard page title$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Dashbodard page title$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Dashbodard page title" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FailedRerun" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberProject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testrunners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testrunners" />
+      <option name="MAIN_CLASS_NAME" value="testrunners.FailedRerun" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CucumberProject2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testrunners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testrunners" />
+      <option name="MAIN_CLASS_NAME" value="testrunners.MyTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTestRunner" />
+        <item itemvalue="JUnit.FailedRerun" />
+        <item itemvalue="Cucumber Java.Scenario: Dashbodard page title" />
+        <item itemvalue="Cucumber Java.Feature: DashboardPage" />
+        <item itemvalue="Cucumber Java.Scenario: Dashboard Page left panel section count" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1de70f9e-7c9d-4a17-ad85-c515e9fea404" name="Changes" comment="" />
+      <created>1729665093426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729665093426</updated>
+    </task>
+    <servers />
+  </component>
+</project>
